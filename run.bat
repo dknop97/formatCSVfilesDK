@@ -1,3 +1,3 @@
 @echo off
-python %__CD__%main_AutoDK.py
+python %__CD__%formatCSV_auto.py
 exit
